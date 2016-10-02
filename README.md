@@ -34,3 +34,11 @@ Result:
 
 
 DQL Joins are also possible.
+
+## Installation
+
+Download zip file https://github.com/kwmiebach/shopware-api-query/raw/master/KwmiebachExtendApiDql-4513d40.zip and upload manually as a 'community plugin' from within your shop backend.
+
+## Packaging
+
+To create the zip file from sources make sure the ./Core directory is in the root of the zip file.
