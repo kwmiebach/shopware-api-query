@@ -37,7 +37,9 @@ DQL Joins are also possible.
 
 ## Installation
 
-Download zip file https://github.com/kwmiebach/shopware-api-query/raw/master/KwmiebachExtendApiDql-4513d40.zip and upload manually as a 'community plugin' from within your shop backend.
+Shopware 5: copy source files to engine/Shopware/Plugins/Local/Core/KwmiebachExtendApiDql and go to plugin manager - installed in the shop backend. Locate the plugin and click the green (+) to activate it. Afterwards locate it in the deactivated plugins. Click the pencil to edit it and click on the activate button.
+
+Shopware 4: Download zip file https://github.com/kwmiebach/shopware-api-query/raw/master/KwmiebachExtendApiDql-4513d40.zip and upload manually as a 'community plugin' from within your shop backend.
 
 ## Packaging
 
